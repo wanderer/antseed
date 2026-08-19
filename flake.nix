@@ -143,7 +143,7 @@
               inherit pnpm;
               fetcherVersion = 3;
               pnpmWorkspaces = [ "@antseed/cli..." ];
-              hash = "sha256-EHNc17gKwWQSrrd/XVzxfnTpdG1IzJ0z2q+8exMYn6c=";
+              hash = "sha256-G/GO+gP79QTzTQoGu7FJYi1w/zJPp7lzR1eWz4RBbjI=";
             };
 
             pnpmWorkspaces = [ "@antseed/cli..." ];
